@@ -15,7 +15,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		mod: 'gen9',
 		gameType: 'doubles',
 		bestOfDefault: true,
-		ruleset: ['Flat Rules', 'NatDex Mod', 'VGC Timer', 'Open Team Sheets', '!Obtainable Moves', '!Obtainable Abilities'],
+		ruleset: ['Flat Rules', 'NatDex Mod', 'VGC Timer', 'Open Team Sheets', '!Obtainable Moves', '!Obtainable Abilities', '+LGPE'],
 		unbanlist: ['Mythical', 'Restricted Legendary', 'Greninja-Bond'],
 	},
 ];
